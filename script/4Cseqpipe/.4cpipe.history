@@ -1,0 +1,44 @@
+perl 4cseqpipe.pl -fastq2raw -ids 3 -fastq_fn /f/jianhua/4Ctutorial/data/interim/test/test.trim.fq -convert_qual 1
+perl 4cseqpipe.pl -map -ids 3
+perl 4cseqpipe.pl -nearcis -calc_from 20973773 -calc_to 22973773 -stat_type median -trend_resolution 5000 -ids 3 -figure_fn /f/jianhua/4Ctutorial/data/processed/test/test_1000000.4cseq.pdf
+perl 4cseqpipe.pl -nearcis -calc_from 20973773 -calc_to 22973773 -stat_type median -trend_resolution 5000 -ids 3 -figure_fn /f/jianhua/4Ctutorial/data/processed/test/test_1000000.4cseq.pdf
+perl 4cseqpipe.pl -nearcis -calc_from 20973773 -calc_to 22973773 -stat_type median -trend_resolution 5000 -ids 3 -figure_fn /f/jianhua/4Ctutorial/data/processed/test/test_1000000.4cseq.pdf
+perl 4cseqpipe.pl -nearcis -calc_from 20973773 -calc_to 22973773 -stat_type median -trend_resolution 5000 -ids 3 -figure_fn /f/jianhua/4Ctutorial/data/processed/test/test_1000000.4cseq.pdf
+perl 4cseqpipe.pl -fastq2raw -ids 3 -fastq_fn /f/jianhua/4Ctutorial/data/interim/test/test.trim.fq -convert_qual 1
+perl 4cseqpipe.pl -map -ids 3
+perl 4cseqpipe.pl -nearcis -calc_from 20973773 -calc_to 22973773 -stat_type median -trend_resolution 5000 -ids 3 -figure_fn /f/jianhua/4Ctutorial/data/processed/test/test_1000000.4cseq.pdf
+perl 4cseqpipe.pl -nearcis -calc_from 20973773 -calc_to 22973773 -stat_type median -trend_resolution 5000 -ids 3 -figure_fn /f/jianhua/4Ctutorial/data/processed/test/test_1000000.4cseq.pdf
+perl 4cseqpipe.pl -fastq2raw -ids 3 -fastq_fn /f/jianhua/4Ctutorial/data/interim/test/test.trim.fq -convert_qual 1
+perl 4cseqpipe.pl -map -ids 3
+perl 4cseqpipe.pl -nearcis -calc_from 20973773 -calc_to 22973773 -stat_type median -trend_resolution 5000 -ids 3 -figure_fn /f/jianhua/4Ctutorial/data/processed/test/test_1000000.4cseq.pdf
+perl 4cseqpipe.pl -nearcis -calc_from 20973773 -calc_to 22973773 -stat_type median -trend_resolution 5000 -ids 3 -figure_fn /f/jianhua/4Ctutorial/data/processed/test/test_1000000.4cseq.pdf
+perl 4cseqpipe.pl -map -ids 3
+perl 4cseqpipe.pl -map
+perl 4cseqpipe.pl -map -ids 3
+perl 4cseqpipe.pl -fastq2raw -ids 3 -fastq_fn /f/jianhua/4Ctutorial/data/interim/test/test.trim.fq -convert_qual 1
+perl 4cseqpipe.pl -map -ids 3
+perl 4cseqpipe.pl -nearcis -calc_from 20973773 -calc_to 22973773 -stat_type median -trend_resolution 5000 -ids 3 -figure_fn /f/jianhua/4Ctutorial/data/processed/test/test_1000000.4cseq.pdf
+perl 4cseqpipe.pl -nearcis -calc_from 20973773 -calc_to 22973773 -stat_type median -trend_resolution 1000 -ids 3 -figure_fn /f/jianhua/4Ctutorial/data/processed/test/test_1000000.4cseq.pdf
+perl 4cseqpipe.pl -build_re_db -first_cutter GTAC -second_cutters CATG -trackdb_root trackdb/hg19_trackdb
+perl 4cseqpipe.pl -fastq2raw -ids 4 -fastq_fn /f/jianhua/4Ctutorial/data/interim/ZK_2024_4/ZK_2024_4.trim.fq -convert_qual 1
+perl 4cseqpipe.pl -map -ids 4
+perl 4cseqpipe.pl -nearcis -calc_from 133465372 -calc_to 135465372 -stat_type median -trend_resolution 5000 -ids 4 -figure_fn /f/jianhua/4Ctutorial/data/processed/ZK_2024_4/ZK_2024_4_1000000.4cseq.pdf
+perl 4cseqpipe.pl -nearcis -calc_from 133465372 -calc_to 135465372 -stat_type median -trend_resolution 5000 -ids 4 -figure_fn /f/jianhua/4Ctutorial/data/processed/ZK_2024_4/ZK_2024_4_1000000.4cseq.pdf
+perl 4cseqpipe.pl -map -ids 4
+perl 4cseqpipe.pl -map -ids 4
+perl 4cseqpipe.pl -nearcis -calc_from 133465372 -calc_to 135465372 -stat_type median -trend_resolution 5000 -ids 4 -figure_fn /f/jianhua/4Ctutorial/data/processed/ZK_2024_4/ZK_2024_4_1000000.4cseq.pdf
+perl 4cseqpipe.pl -fastq2raw -ids 5 -fastq_fn /f/jianhua/4Ctutorial/data/interim/ZK_2024_5/ZK_2024_5.trim.fq -convert_qual 1
+perl 4cseqpipe.pl -map -ids 5
+perl 4cseqpipe.pl -nearcis -calc_from 133465372 -calc_to 135465372 -stat_type median -trend_resolution 5000 -ids 5 -figure_fn /f/jianhua/4Ctutorial/data/processed/ZK_2024_5/ZK_2024_5_1000000.4cseq.pdf
+perl 4cseqpipe.pl -fastq2raw -ids 6 -fastq_fn /f/jianhua/4Ctutorial/data/interim/ZK_2024_6/ZK_2024_6.trim.fq -convert_qual 1
+perl 4cseqpipe.pl -map -ids 6
+perl 4cseqpipe.pl -nearcis -calc_from 133465372 -calc_to 135465372 -stat_type median -trend_resolution 5000 -ids 6 -figure_fn /f/jianhua/4Ctutorial/data/processed/ZK_2024_6/ZK_2024_6_1000000.4cseq.pdf
+perl 4cseqpipe.pl -fastq2raw -ids 7 -fastq_fn /f/jianhua/4Ctutorial/data/interim/ZK_2024_2/ZK_2024_2.trim.fq -convert_qual 1
+perl 4cseqpipe.pl -map -ids 7
+perl 4cseqpipe.pl -fastq2raw -ids 8 -fastq_fn /f/jianhua/4Ctutorial/data/interim/ZK_2024_3/ZK_2024_3.trim.fq -convert_qual 1
+perl 4cseqpipe.pl -map -ids 8
+perl 4cseqpipe.pl -nearcis -calc_from 133465372 -calc_to 135465372 -stat_type median -trend_resolution 5000 -ids 7 -figure_fn /f/jianhua/4Ctutorial/data/processed/ZK_2024_2/ZK_2024_2_1000000.4cseq.pdf
+perl 4cseqpipe.pl -nearcis -calc_from 133465372 -calc_to 135465372 -stat_type median -trend_resolution 5000 -ids 8 -figure_fn /f/jianhua/4Ctutorial/data/processed/ZK_2024_3/ZK_2024_3_1000000.4cseq.pdf
+perl 4cseqpipe.pl -fastq2raw -ids 9 -fastq_fn /f/jianhua/4Ctutorial/data/interim/ZK_2024_1/ZK_2024_1.trim.fq -convert_qual 1
+perl 4cseqpipe.pl -map -ids 9
+perl 4cseqpipe.pl -nearcis -calc_from 133465372 -calc_to 135465372 -stat_type median -trend_resolution 5000 -ids 9 -figure_fn /f/jianhua/4Ctutorial/data/processed/ZK_2024_1/ZK_2024_1_1000000.4cseq.pdf
